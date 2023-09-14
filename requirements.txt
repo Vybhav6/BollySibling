@@ -1,6 +1,6 @@
 protobuf==3.20
 mtcnn
-tensorflow==2.11.0
+tensorflow
 keras==2.4.3
 keras-vggface==0.6
 keras_applications==1.0.8
