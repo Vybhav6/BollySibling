@@ -1,4 +1,4 @@
-
+protobuf==3.20
 mtcnn
 tensorflow==2.11.0
 keras==2.4.3
