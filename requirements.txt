@@ -1,5 +1,6 @@
 keras-vggface==0.6
 mtcnn
 tensorflow
+keras==2.4.3
 keras_applications==1.0.8
 
